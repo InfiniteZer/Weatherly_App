@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847525746474",
+    "project_id": "weatherly-c6a7e",
+    "storage_bucket": "weatherly-c6a7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847525746474:android:82787dc90c6ca6ed0fb053",
+        "android_client_info": {
+          "package_name": "com.example.mausam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847525746474-h81r4bgqec96lrs0dtva8vs8cp49tse7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrsIs86ZDefk0Ig39VGYxajcOY7w2WV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847525746474-h81r4bgqec96lrs0dtva8vs8cp49tse7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
